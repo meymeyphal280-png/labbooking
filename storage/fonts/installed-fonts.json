@@ -1,0 +1,20 @@
+{
+    "noto sans khmer": {
+        "normal": "D:\\Xampp\\htdocs\\TestingLaravel\\LabBooking\\labBookingSystem\\storage\\fonts\/noto_sans_khmer_normal_4d23e94ec38eba760adb9fc781e60fa9",
+        "500": "D:\\Xampp\\htdocs\\TestingLaravel\\LabBooking\\labBookingSystem\\storage\\fonts\/noto_sans_khmer_500_4d23e94ec38eba760adb9fc781e60fa9",
+        "600": "D:\\Xampp\\htdocs\\TestingLaravel\\LabBooking\\labBookingSystem\\storage\\fonts\/noto_sans_khmer_600_4d23e94ec38eba760adb9fc781e60fa9",
+        "bold": "noto_sans_khmer_bold_513b68e92c5ae6ac0ee42bd48699de5d",
+        "100": "D:\\Xampp\\htdocs\\TestingLaravel\\LabBooking\\labBookingSystem\\storage\\fonts\/noto_sans_khmer_100_68d9a6ac55a0873121881824aa7442f2",
+        "200": "D:\\Xampp\\htdocs\\TestingLaravel\\LabBooking\\labBookingSystem\\storage\\fonts\/noto_sans_khmer_200_bb4d148a357b7f40dc1825a31f7373bb",
+        "300": "D:\\Xampp\\htdocs\\TestingLaravel\\LabBooking\\labBookingSystem\\storage\\fonts\/noto_sans_khmer_300_95f98742806fc590dc7d5cb0387d4a6a",
+        "800": "D:\\Xampp\\htdocs\\TestingLaravel\\LabBooking\\labBookingSystem\\storage\\fonts\/noto_sans_khmer_800_5f42126a209adfca2e87a0c2eac50f02",
+        "900": "D:\\Xampp\\htdocs\\TestingLaravel\\LabBooking\\labBookingSystem\\storage\\fonts\/noto_sans_khmer_900_f96eb5bd16d2831cc17e38762e822695"
+    },
+    "battambang": {
+        "normal": "D:\\Xampp\\htdocs\\TestingLaravel\\LabBooking\\labBookingSystem\\storage\\fonts\/battambang_normal_58d57ec3557d1e7086975dbd95e64a26",
+        "bold": "battambang_bold_e37b55934e1ff5e2c92a0a312832c129"
+    },
+    "moul": {
+        "normal": "moul_normal_9007d72f16faf53b770188306a31929b"
+    }
+}
